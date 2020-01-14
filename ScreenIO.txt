@@ -1,0 +1,118 @@
+*****************************************************
+*  PROGRAMMED BY : Suhyr Hasan
+*  STUDENT IDs   : 1022520
+*  CLASS         : CS1B - MW - 7:30pm - 9:50pm
+*  ASSIGNMENT #5 : DVD Movie List Intro to OOP
+*****************************************************
+
+What input file would you like to use (type d for default file)?  d
+What output file would you like to use (type d for default file)? d
+
+Creating list from file InputFile.txt...
+List Created!
+
+DVD MENU OPTIONS
+1 – Add A Movie
+2 – Remove A Movie
+3 – Is the stack empty?
+4 – What Movie is on top?
+5 – How Many Movies Are There?
+6 – Output Entire Movie List
+0 - EXIT
+Enter an option (0 to exit): 6
+
+Outputting List to OFile.txt...
+
+
+DVD MENU OPTIONS
+1 – Add A Movie
+2 – Remove A Movie
+3 – Is the stack empty?
+4 – What Movie is on top?
+5 – How Many Movies Are There?
+6 – Output Entire Movie List
+0 - EXIT
+Enter an option (0 to exit): 1
+
+Enter title: Rambo: Last Blood
+Enter leading actor: Sylvester Stallone
+Enter supporting actor: Paz Vega
+Enter genre: Thriller
+Enter alternate genre: Action
+Enter year: 2019
+Enter rating 8
+Enter synopsis: Vietnam War veteran John Rambo tries to find some semblance of peace 
+by raising horses on a ranch in Arizona. He's also developed a special familial bond 
+with a woman named Maria and her teenage granddaughter Gabriela. But when a vicious 
+Mexican cartel kidnaps Gabriela, Rambo crosses the border on a bloody and personal 
+quest to rescue her and punish those responsible.
+
+Your movie has been added to the list.
+
+DVD MENU OPTIONS
+1 – Add A Movie
+2 – Remove A Movie
+3 – Is the stack empty?
+4 – What Movie is on top?
+5 – How Many Movies Are There?
+6 – Output Entire Movie List
+0 - EXIT
+Enter an option (0 to exit): 2
+
+Popping Rambo: Last Blood...
+Success!
+
+DVD MENU OPTIONS
+1 – Add A Movie
+2 – Remove A Movie
+3 – Is the stack empty?
+4 – What Movie is on top?
+5 – How Many Movies Are There?
+6 – Output Entire Movie List
+0 - EXIT
+Enter an option (0 to exit): 3
+
+The list is NOT empty.
+
+DVD MENU OPTIONS
+1 – Add A Movie
+2 – Remove A Movie
+3 – Is the stack empty?
+4 – What Movie is on top?
+5 – How Many Movies Are There?
+6 – Output Entire Movie List
+0 - EXIT
+Enter an option (0 to exit): 4
+
+Peeking at: 
+Title:            Antwone Fisher
+Leading Actor:    Denzel Washington
+Supporting Actor: Derek Luke
+Genre:            Biography
+Alternate Genre:  Drama
+Year:             2002
+Rating:           7
+
+
+DVD MENU OPTIONS
+1 – Add A Movie
+2 – Remove A Movie
+3 – Is the stack empty?
+4 – What Movie is on top?
+5 – How Many Movies Are There?
+6 – Output Entire Movie List
+0 - EXIT
+Enter an option (0 to exit): 5
+
+There are 20 movies on the list.
+
+
+DVD MENU OPTIONS
+1 – Add A Movie
+2 – Remove A Movie
+3 – Is the stack empty?
+4 – What Movie is on top?
+5 – How Many Movies Are There?
+6 – Output Entire Movie List
+0 - EXIT
+Enter an option (0 to exit): 0
